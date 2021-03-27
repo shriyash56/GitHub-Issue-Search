@@ -1,0 +1,23 @@
+.mr-auto {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar {
+  background: rgb(211, 209, 209);
+  display: flex;
+
+  color: white;
+}
+.userInfo {
+  margin: 2px 10px;
+}
+
+.repoInfo {
+  margin: 2px 10px;
+}
+
+.image{
+  display: flex;
+  justify-content: center;
+}
